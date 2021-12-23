@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActyDemosSessionPresentation</string>
+    <string name="DA">2 Activities Demo App - You are in the First Activity</string>
+    <string name="SSA">Show Second Activity</string>
+    <string name="SFA">Show the First Activity</string>
+    <string name="YSA">You are in the Second Activity</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+</resources>
